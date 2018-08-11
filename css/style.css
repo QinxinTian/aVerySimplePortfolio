@@ -37,7 +37,7 @@ html {
 }
 
 .header_title {
-    font-weight: 290;
+    font-weight: 300;
     font-size: 4em;
     margin: 0.1em 0.25em;
     text-transform: uppercase;
@@ -46,7 +46,7 @@ html {
 }
 
 .header_second_subtitle {
-    font-weight: 290;
+    font-weight: 300;
     font-size: 2em;
     margin: 0.1em 0.45em;
     text-transform: uppercase;
@@ -108,7 +108,7 @@ html {
 }
 
 .content_title {
-    font-weight: 290;
+    font-weight: 300;
     font-size: 3.3em;
     margin: 0.1em 0.5em;
     color: #2d3c49;
@@ -116,7 +116,7 @@ html {
 }
 
 .content_link {
-    font-weight: 290;
+    font-weight: 300;
     font-size: 1.4em;
     text-align: center;
     display: inherit;
@@ -132,7 +132,7 @@ html {
     }
 
     .header_title {
-        font-weight: 290;
+        font-weight: 300;
         font-size: 3.4em;
         margin: 0.1em 0.50em;
         color: #2d3c49;
@@ -140,7 +140,7 @@ html {
     }
 
     .header_second_subtitle {
-        font-weight: 290;
+        font-weight: 300;
         font-size: 1em;
         margin: auto auto;
     }

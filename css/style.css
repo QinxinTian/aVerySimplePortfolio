@@ -97,27 +97,27 @@ html {
 /* content */
 
 .content {
-    width: 32%;
+    width: 33%;
 }
 
 .content_image {
-    width: 65%;
-    display: inline-block;
+    width: 80%;
+    display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
 .content_title {
-    font-weight: 200;
-    font-size: 2.8em;
-    margin: auto auto;
+    font-weight: 290;
+    font-size: 3.3em;
+    margin: 0.1em 0.5em;
     color: #2d3c49;
     text-align: center;
 }
 
 .content_link {
-    font-weight: 200;
-    font-size: 1.6em;
+    font-weight: 290;
+    font-size: 1.4em;
     text-align: center;
     display: inherit;
 }
@@ -133,8 +133,10 @@ html {
 
     .header_title {
         font-weight: 290;
-        font-size: 2em;
-        margin: 0.1em 0.24em;
+        font-size: 3.4em;
+        margin: 0.1em 0.50em;
+        color: #2d3c49;
+        text-align:center;
     }
 
     .header_second_subtitle {
@@ -147,10 +149,10 @@ html {
         font-size: 2.5em;
     }
     .content_link {
-        font-size: 1.5em;
+        font-size: 0.7em;
     }
     .content_title {
-        font-size: 3em;
+        font-size: 1.5em;
     }
 }
 
@@ -160,13 +162,16 @@ html {
     }
 
     .header_right {
-        margin-top: 11px;
+        margin-top: 12px;
     }
 
     .header_title {
-        font-weight: 290;
-        font-size: 4em;
-        margin: 0.1em 0.25em;
+        font-weight: 300;
+        font-size: 1em;
+        margin: 0.1em 0.5em;
+    }
+    .cover {
+    width: 100%;
     }
 
     .header_second_subtitle {
@@ -180,12 +185,13 @@ html {
     }
 
     .content {
-        width: 60%;
+        width: 50%;
+        margin-bottom: 20px;
     }
     .content_link {
-        font-size: 2em;
+        font-size: 0.7em;
     }
     .content_title {
-        font-size: 3em;
+        font-size: 2.5em;
     }
 }
